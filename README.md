@@ -6,7 +6,7 @@ Files include data and code used to generate the figures and statistical analysi
 
 Data:
 - Count_Data: json formated (.biom) otu count table with taxonomic information
-- Metadata: Clinical sample data (.txt)
+- Metadata: Clinical sample data (.csv)
 - Tree: Phylogenetic tree (.nwk)
 
 R Code:
