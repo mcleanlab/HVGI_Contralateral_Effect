@@ -1,6 +1,6 @@
-#Human Variation in Gingival Inflammation
-#This repository will pprovide access to the data and code for the manuscript: 
-#Localized Microbially Induced Inflammation Influences Distant Healthy Tissues in the Human Oral Cavity, Kerns et al. In Press
+## Human Variation in Gingival Inflammation
+# This repository will pprovide access to the data and code for the manuscript: 
+# Localized Microbially Induced Inflammation Influences Distant Healthy Tissues in the Human Oral Cavity, Kerns et al. In Press
 
 Files include data and code used to generate the figures and statistical analysis for both cytokine and microbiome data presented in the manuscript.
 
