@@ -1,6 +1,6 @@
-# Human Variation in Gingival Inflammation (HGVI) Study - Investigating Contralateral Effects of Localized Microbially Induced Inflammation in the Human Oral Cavity
-
-This repository will serve to provide public access to data associated with upcoming manuscript "Localized Microbially-Induced Inflammation Influences Distant Healthy Tissues in the Human Oral Cavity" by Kerns et al.
+#Human Variation in Gingival Inflammation
+#This repository will pprovide access to the data and code for the manuscript: 
+#Localized Microbially Induced Inflammation Influences Distant Healthy Tissues in the Human Oral Cavity, Kerns et al. In Press
 
 Files include data and code used to generate the figures and statistical analysis for both cytokine and microbiome data presented in the manuscript.
 
@@ -11,6 +11,7 @@ Data:
 
 R Code:
 - Rmarkdown (.Rmd and .html)
+- Package and Version Library
 
 Stats:
 Comprehensive Chemokine Stats by Responder and Day (.xlsx)
@@ -27,4 +28,5 @@ Comprehensive Chemokine Stats by Responder and Day (.xlsx)
 - Anova (Low Responders)
 - Anova (Low Overime - Baseline Day 0 to Day 21)
 
-> Mclean Lab: Contact kkerns85 at UW [dot] edu 
+> Any additonal questions or reuqest can be submitted to:
+> kkerns85 at UW [dot] edu 
