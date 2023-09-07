@@ -14,7 +14,7 @@ Data:
 - Beta Dissimilarity (.txt)
 
 R Code:
-- Raw R code (.R)
+- Raw R code (.R and .RData)
 - Rmarkdown (.Rmd and .html)
 
 Stats:
