@@ -12,7 +12,7 @@ Data:
 - Log Fold Change by Mediator (.txt)
 - Beta Dissimilarity (.txt)
 
-R Code:
+Code:
 - Raw R code (.R and .RData)
 - Rmarkdown (.Rmd and .html)
 
