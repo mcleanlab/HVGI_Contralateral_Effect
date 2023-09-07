@@ -34,4 +34,4 @@ Comprehensive Chemokine Stats by Responder and Day (.xlsx)
 - Anova (Low Overime - Baseline Day 0 to Day 21)
 
 > Any additonal questions or reuqest can be submitted to:
-> kkerns85 at UW [dot] edu 
+> kkerns85 at UW [dot] edu  
