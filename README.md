@@ -1,5 +1,5 @@
 # Localized Microbially Induced Inflammation Influences Distant Healthy Tissues in the Human Oral Cavity
-## Repository for the manuscript by Kerns et al., In Press, PNAS
+## Repository for the manuscript by Kerns et al., PNAS, DOI: 10.1073/pnas.2306020120
 
 Files include data and code used to generate the figures and statistical analysis for both cytokine and microbiome data presented in the manuscript.
 
